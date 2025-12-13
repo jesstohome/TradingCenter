@@ -1,0 +1,3 @@
+2023-07-30 23:23:02 pid:21901 Workerman[artisan] stopping ...
+2023-07-30 23:23:04 pid:21901 worker[Huobi Websocket:21929] exit with status 9
+2023-07-30 23:23:04 pid:21901 Workerman[artisan] has been stopped
